@@ -12,6 +12,6 @@ mod tests {
 
     #[test]
     fn return_empty() {
-        assert_eq!(().to_string(), "".to_owned());
+        assert_eq!(().to_string(), "");
     }
 }
